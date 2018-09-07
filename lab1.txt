@@ -1,0 +1,7 @@
+1.i created an python account
+2.we are using some commandsls,subl,man ls
+3. we are using the trminal to open a python
+4.to create a directry (mkdir username)
+5.cd:is used to change the directry
+6.subl:to get a new c
+7.print:it is a standard input command
